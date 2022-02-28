@@ -1,2 +1,2 @@
 # my-first-repo
-This is just a demo for my CC3 class in university.
+This is a demo for my Cloudswyft course in university.
